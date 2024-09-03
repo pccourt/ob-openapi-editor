@@ -1,5 +1,9 @@
 # ob-editor
 
+THIS REPOSITORY IS OLD AND INACTIVE (PLEASE DO NOT USE).
+
+The new OB Editor repository is available here: https://github.com/Open-Orange-Button/Orange-Button-Editor
+
 ## Project setup
 ```
 npm install
